@@ -1,4 +1,0 @@
-
-package chess;
-
-	final String pawn = new String("pawn");

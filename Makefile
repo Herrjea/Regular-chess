@@ -3,4 +3,4 @@ all:
 	javac chess/*.java
 
 clean:
-	rm chess/*.class
+	rm chess/*.class chess/*~
